@@ -1,3 +1,4 @@
+// C-PROGRAM to read and print array elements and list the negative elements of array if any.
 #include<stdio.h>
 int main()
 {
